@@ -9,8 +9,8 @@ The process followed during analysis are as follows : -
 
 3. A line chart is created that compares your city’s temperatures with the global temperatures. The moving average is ploted rather than yearly averages to smooth out the lines and make trends more observable.
 
-4. The below observations are about the similarities and differences between the world averages and your city’s averages, as well as overall trends. 
+4. The below observations are observed about the similarities and differences between the world averages and my city’s averages, as well as overall trends. 
 
-        a. Is your city hotter or cooler on average compared to the global average? Has the difference been consistent over time?
-        b. “How do the changes in your city’s temperatures over time compare to the changes in the global average?”
+        a. Is my is city hotter or cooler on average compared to the global average? Has the difference been consistent over time?
+        b. How do the changes in my city’s temperatures over time compare to the changes in the global average?
         c. What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few              hundred years?

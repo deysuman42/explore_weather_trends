@@ -1,0 +1,62 @@
+{
+    "trainSetData" : [ 
+        {
+            "label" : "Accounts Payable",
+            "keyWords" : [ 
+                "AP", 
+                "Accounts Payable", 
+                "Invoice", 
+                "A/P", 
+                "AP ITP", 
+                "Invoice to pay", 
+                "invoice", 
+                "Invoice generation", 
+                "voucher generation", 
+                "processes invoices"
+            ]
+        }, 
+        {
+            "label" : "Language",
+            "keyWords" : [ 
+                "French", 
+                "German", 
+                "spanish", 
+                "korean"
+            ]
+        }, 
+        {
+            "label" : "Customer Service",
+            "keyWords" : [ 
+                "Customer service", 
+                "Customer support", 
+                "Customer Service representative", 
+                "CSR"
+            ]
+        }, 
+        {
+            "label" : "Accounts Receivables",
+            "keyWords" : [ 
+                "Collections", 
+                "B2B Collections", 
+                "Accounts receivables", 
+                "Debt collections", 
+                "Business to Business collections", 
+                "AR", 
+                "Order to Cash", 
+                "OTC", 
+                "O2C", 
+                "Billing Support", 
+                "Billing"
+            ]
+        }, 
+        {
+            "label" : "General Accounting",
+            "keyWords" : [ 
+                "Records to Report", 
+                "R TO R", 
+                "R2R", 
+                "General Accounting"
+            ]
+        }
+    ]
+}
